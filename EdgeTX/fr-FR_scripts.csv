@@ -1,0 +1,180 @@
+String ID,Source text,Translation,Context,Path,Filename
+1,P,Pé/.,,BETAFLIGHT,p.wav
+2,I,i/.,,BETAFLIGHT,i.wav
+3,D,D,,BETAFLIGHT,d.wav
+4,D setpoint,Setpoint D,,BETAFLIGHT,dsetpt.wav
+5,acro mode,Mode acro,,INAV,acromd.wav
+6,active,actif,,INAV,active.wav
+7,altitude hold,Maintien d'altitude,,INAV,althld.wav
+8,angle mode,Mode angle,,INAV,anglmd.wav
+9,battery critical,Batterie critique,,INAV,batcrt.wav
+10,Low battery,Batterie faible,,INAV,batlow.wav
+11,battery,batterie,,INAV,battry.wav
+12,cruise mode,Mode croisière,,INAV,cruzmd.wav
+13,danger,danger,,INAV,danger.wav
+14,engines armed,Moteurs armés,,INAV,engarm.wav
+15,engines disarmed,Moteurs désarmés,,INAV,engdrm.wav
+16,failsafe off,Feilseife désactivé,,INAV,fsoff.wav
+17,failsafe on,Feilseife activé,,INAV,fson.wav
+18,good,bon,,INAV,good.wav
+19,GPS,GPS,,INAV,gps.wav
+20,heading hold active,Maintien de cap actif,,INAV,hedhlda.wav
+21,heading hold,maintien de cap,,INAV,hedhld.wav
+22,headfree active,Vue libre active,,INAV,hfact.wav
+23,headfree off,Vue libre coupé,,INAV,hfoff.wav
+24,home reset,Point maison réinitialisé,,INAV,homrst.wav
+25,horizon mode,Mode horizon,,INAV,hrznmd.wav
+26,lost,perdu,,INAV,lost.wav
+27,manual mode,Mode manuel,,INAV,manmd.wav
+28,normal,normal,,INAV,normal.wav
+29,off,coupé,,INAV,off.wav
+30,on,activé,,INAV,on.wav
+31,position hold,Maintien de position,,INAV,poshld.wav
+32,ready to fly,Prêt à voler,,INAV,ready.wav
+33,return to launch,Retour au point de départ,,INAV,rtl.wav
+34,too high,trop haut,,INAV,toohgh.wav
+35,warning,Alerte,,INAV,warnng.wav
+36,waypoint,Point de passage,,INAV,waypt.wav
+37,Auto Tune,Autotune,,INAV,autotn.wav
+38,Auto Level Trim,Trim d'auto-nivellement,,INAV,autolm.wav
+39,Soaring,Vol planeur,,INAV,soarng.wav
+40,Beeper,Buzzer,,INAV,beeper.wav
+41,Acro flight mode,Mode de vol acro,,YAAPU,acro.wav
+42,Acro mode,Mode acro,,YAAPU,acro_r.wav
+43,Altitude,altitude,,YAAPU,alt.wav
+44,Altitude hold flight mode,Mode de vol maintien d'altitude,,YAAPU,althold.wav
+45,Motors armed,Moteurs armés,,YAAPU,armed.wav
+46,Auto flight mode,Mode de vol automatique,,YAAPU,auto.wav
+47,Auto mode,Mode automatique,,YAAPU,auto_r.wav
+48,Auto RTL flight mode,Mode de vol retour automatique,,YAAPU,autortl.wav
+49,Autotune enabled,Autotune activé,,YAAPU,autotune.wav
+50,Avoid A D S B flight mode,Mode de vol évitement A-D-S-B,,YAAPU,avoidadsb.wav
+51,Battery at 5 percent,Batterie à 5 pourcents,,YAAPU,bat5.wav
+52,Battery at 10 percent,Batterie à 10 pourcents,,YAAPU,bat10.wav
+53,Battery at 15 percent,Batterie à 15 pourcents,,YAAPU,bat15.wav
+54,Battery at 20 percent,Batterie à 20 pourcents,,YAAPU,bat20.wav
+55,Battery at 25 percent,Batterie à 25 pourcents,,YAAPU,bat25.wav
+56,Battery at 30 percent,Batterie à 30 pourcents,,YAAPU,bat30.wav
+57,Battery at 40 percent,Batterie à 40 pourcents,,YAAPU,bat40.wav
+58,Battery at 50 percent,Batterie à 50 pourcents,,YAAPU,bat50.wav
+59,Battery at 60 percent,Batterie à 60 pourcents,,YAAPU,bat60.wav
+60,Battery at 70 percent,Batterie à 70 pourcents,,YAAPU,bat70.wav
+61,Battery at 80 percent,Batterie à 80 pourcents,,YAAPU,bat80.wav
+62,Battery at 90 percent,Batterie à 90 pourcents,,YAAPU,bat90.wav
+63,Battery alert,Alerte batterie,,YAAPU,batalert.wav
+64,Battery level 1 alert,Alerte niveau de batterie 1,,YAAPU,batalert1.wav
+65,Battery level 2 alert,Alerte niveau de batterie 2,,YAAPU,batalert2.wav
+66,Brake flight mode,Mode de vol frein,,YAAPU,brake.wav
+67,Circle flight mode,Mode de vol cercle,,YAAPU,circle.wav
+68,Cruise flight mode,Mode de vol croisière,,YAAPU,cruise.wav
+69,Motors disarmed,Moteurs désarmés,,YAAPU,disarmed.wav
+70,Distance,distance,,YAAPU,dist.wav
+71,Drift flight mode,Mode de vol dérive,,YAAPU,drift.wav
+72,E K F failsafe,Feilseife E K F,,YAAPU,ekf.wav
+73,failsafe,feilseife,,YAAPU,failsafe.wav
+74,fence enabled,Géoclôture activée,,YAAPU,fence.wav
+75,fence breach,Géoclôture franchie,,YAAPU,fencebreach.wav
+76,Flip flight mode,Mode de vol flipe,,YAAPU,flip.wav
+77,flow position hold flight mode,Mode de vol maintien de position optique,,YAAPU,flowhold.wav
+78,Fly by wire a flight mode,Mode de vol fly by wire A,,YAAPU,flybywirea.wav
+79,Fly by wire b flight mode,Mode de vol fly by wire B,,YAAPU,flybywireb.wav
+80,follow flight mode,Mode de vol suiveur,,YAAPU,follow.wav
+81,follow mode,Mode suiveur,,YAAPU,follow_r.wav
+82,GPS 3D fix lock,Position GPS 3D acquise,,YAAPU,gpsfix.wav
+83,No gps,Pas de GPS,,YAAPU,gpsnofix.wav
+84,Guided flight mode,Mode de vol guidé,,YAAPU,guided.wav
+85,Guided mode,Mode guidé,,YAAPU,guided_r.wav
+86,Guided no gps flight mode,Mode de vol guidé sans GPS,,YAAPU,guidednogps.wav
+87,Hold mode,Mode maintien,,YAAPU,hold_r.wav
+88,Initializing,Initialisation,,YAAPU,initializing.wav
+89,Initializing,Initialisation,,YAAPU,initializing_r.wav
+90,Land flight mode,Mode de vol atterrissage,,YAAPU,land.wav
+91,Landing complete,Atterrissage terminé,,YAAPU,landing.wav
+92,Loiter flight mode,Mode de vol stationnaire,,YAAPU,loiter.wav
+93,Loiter mode,Mode stationnaire,,YAAPU,loiter_r.wav
+94,Low battery,Batterie faible,,YAAPU,lowbat.wav
+95,Manual flight mode,Mode de vol manuel,,YAAPU,manual.wav
+96,Manual mode,Mode manuel,,YAAPU,manual_r.wav
+97,Max altitude alert,Alerte altitude maximale,,YAAPU,maxalt.wav
+98,Max distance alert,Alerte distance maximale,,YAAPU,maxdist.wav
+99,Low altitude alert,Alerte basse altitude,,YAAPU,minalt.wav
+100,Position hold flight mode,Mode de vol maintien de position,,YAAPU,poshold.wav
+101,Q acro flight mode,Mode de vol quadriplane acro,,YAAPU,qacro.wav
+102,Q autotune flight mode,Mode de vol quadriplane autotune,,YAAPU,qautotune.wav
+103,Q hover flight mode,Mode de vol quadriplane survol,,YAAPU,qhover.wav
+104,Q land flight mode,Mode de vol quadriplane atterrissage,,YAAPU,qland.wav
+105,Q loiter flight mode,Mode de vol quadriplane stationnaire,,YAAPU,qloiter.wav
+106,Q return to home flight mode,Mode de vol quadriplane retour automatique,,YAAPU,qrtl.wav
+107,Q stabilize flight mode,Mode de vol quadriplane stabilisé,,YAAPU,qstabilize.wav
+108,Return to home,Retour au point de départ,,YAAPU,rtl.wav
+109,Return to home mode,Mode retour au point de départ,,YAAPU,rtl_r.wav
+110,simple mode,mode simple,,YAAPU,simple_r.wav
+111,simple mode disabled,Mode simple désactivé,,YAAPU,simpleoff.wav
+112,simple mode enabled,Mode simple activé,,YAAPU,simpleon.wav
+113,Smart return to home flight mode,Mode de vol retour intelligent,,YAAPU,smartrtl.wav
+114,Smart return to home mode,Mode retour intelligent,,YAAPU,smartrtl_r.wav
+115,Sport flight mode,Mode de vol sport,,YAAPU,sport.wav
+116,super simple mode disabled,Mode super simple désactivé,,YAAPU,ssimpleoff.wav
+117,super simple mode enabled,Mode super simple activé,,YAAPU,ssimpleon.wav
+118,Stabilize flight mode,Mode de vol stabilisé,,YAAPU,stabilize.wav
+119,Steering mode,Mode pilotage,,YAAPU,steering_r.wav
+120,no terrain data,Pas de données terrain,,YAAPU,terrainko.wav
+121,Thermal flight mode,Mode de vol thermique,,YAAPU,thermal.wav
+122,Throw flight mode,Mode de vol lancé,,YAAPU,throw.wav
+123,Timer alert,Alerte minuteur,,YAAPU,timealert.wav
+124,Training flight mode,Mode de vol formation,,YAAPU,training.wav
+125,turtle mode,Mode tortue,,YAAPU,turtle.wav
+126,Zigzag flight mode,Mode de vol zigzag,,YAAPU,zigzag.wav
+127,takeoff flight mode,Mode de vol décollage,,YAAPU,takeofffm.wav
+128,System I D flight mode,Mode de vol identification système,,YAAPU,systemid.wav
+129,autorotate flight mode,Mode de vol autorotation,,YAAPU,autorotate.wav
+130,velocity flight mode,Mode de vol vitesse,,YAAPU,velocity.wav
+131,Yaa-pu telemetry ready,Télémétrie Yaa-pu prête,,YAAPU,yaapu.wav
+132,Altitude control mode,Mode contrôle d'altitude,PX4,YAAPU,altctl.wav
+133,Position control mode,Mode contrôle de position,PX4,YAAPU,posctl.wav
+134,ready,prêt,PX4,YAAPU,ready.wav
+135,Auto takeoff mode,Mode décollage automatique,PX4,YAAPU,takeoff.wav
+136,Auto mission mode,Mode mission automatique,PX4,YAAPU,mission.wav
+137,link loss failsafe mode,Mode feilseife perte de liaison,PX4,YAAPU,rtgs.wav
+138,Precision landing mode,Mode atterrissage précis,PX4,YAAPU,precland.wav
+139,Offboard mode,Mode offboard,PX4,YAAPU,offboard.wav
+140,rate attitude mode,Mode taux d'attitude,PX4,YAAPU,rattitude.wav
+141,simple mode,mode simple,PX4,YAAPU,simple.wav
+142,PreArming: Need 3D Fix,Pré-armement : position 3D requise,Msg-Hash,YAAPU,264977348.wav
+143,Smart RTL Unavailable,Retour intelligent indisponible,Msg-Hash,YAAPU,1834616480.wav
+144,EKF variance,Variance EKF,Msg-Hash,YAAPU,2386213680.wav
+145,GPS Glitch cleared,Anomalie GPS résolue,Msg-Hash,YAAPU,2310179660.wav
+146,GPS Glitch,Anomalie GPS,Msg-Hash,YAAPU,4137200300.wav
+147,Parachute: Released,Parachute : largué,Msg-Hash,YAAPU,2664106240.wav
+148,Flight plan received,Plan de vol reçu,Msg-Hash,YAAPU,656739232.wav
+149,Mission complete,Mission terminée,Msg-Hash,YAAPU,3708582640.wav
+150,Geofence triggered,Géoclôture déclenchée,Msg-Hash,YAAPU,1809087708.wav
+151,Flight mode change failed,Échec du changement de mode de vol,Msg-Hash,YAAPU,116655276.wav
+152,AutoTune: Success,Autotune : réussi,Msg-Hash,YAAPU,1008001424.wav
+153,AutoTune: Failed,Autotune : échec,Msg-Hash,YAAPU,1396289024.wav
+154,Transition done,Transition terminée,Msg-Hash,YAAPU,986165592.wav
+155,Transition started,Transition démarrée,Msg-Hash,YAAPU,1249672288.wav
+156,Transition done,Transition terminée,Msg-Hash,YAAPU,4019153925.wav
+157,Transition VTOL done,Transition VTOL terminée,Msg-Hash,YAAPU,3417557720.wav
+158,Land descend started,Descente d'atterrissage démarrée,Msg-Hash,YAAPU,1204090832.wav
+159,Land final started,Phase finale d'atterrissage démarrée,Msg-Hash,YAAPU,2890289840.wav
+160,Soaring: Outside max radius,Planeur : rayon maximal dépassé,Msg-Hash,YAAPU,1883944664.wav
+161,Soaring: Disabled.,Planeur : désactivé,Msg-Hash,YAAPU,4175833240.wav
+162,Soaring: not climbing,Planeur : pas d'ascension,Msg-Hash,YAAPU,2599859119.wav
+163,Soaring: drifted too far,Planeur : dérive excessive,Msg-Hash,YAAPU,636067590.wav
+164,Soaring: Too high,Planeur : trop haut,Msg-Hash,YAAPU,2730864352.wav
+165,Soaring: Too low,Planeur : trop bas,Msg-Hash,YAAPU,1698465616.wav
+166,Soaring: Thermal ended,Planeur : thermique terminée,Msg-Hash,YAAPU,981284144.wav
+167,Soaring: Drifted too far,Planeur : dérive excessive,Msg-Hash,YAAPU,2913564252.wav
+168,Soaring: Exit via RC switch,Planeur : sortie par interrupteur radio,Msg-Hash,YAAPU,1746499976.wav
+169,Soaring: Enabled.,Planeur : activé,Msg-Hash,YAAPU,883458048.wav
+170,Soaring: thermal weak,Planeur : thermique faible,Msg-Hash,YAAPU,2139150204.wav
+171,Soaring: reached upper altitude,Planeur : altitude supérieure atteinte,Msg-Hash,YAAPU,1352994600.wav
+172,Soaring: reached lower altitude,Planeur : altitude inférieure atteinte,Msg-Hash,YAAPU,4026147344.wav
+173,reached command:,Commande atteinte :,Msg-Hash,YAAPU,4091124880.wav
+174,reached waypoint:,Point de passage atteint :,Msg-Hash,YAAPU,3311875476.wav
+175,Passed waypoint:,Point de passage franchi :,Msg-Hash,YAAPU,1997782032.wav
+176,Takeoff complete,Décollage terminé,Msg-Hash,YAAPU,554623408.wav
+177,Smart RTL deactivated,Retour intelligent désactivé,Msg-Hash,YAAPU,3025044912.wav
+178,GPS home acquired,Point maison GPS acquis,Msg-Hash,YAAPU,3956583920.wav
+179,GPS home acquired,Point maison GPS acquis,Msg-Hash,YAAPU,1309405592.wav
